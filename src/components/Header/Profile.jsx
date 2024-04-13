@@ -45,7 +45,7 @@ const Profile = ({ name, description, photoUrl, socialLinks }) => {
   return (
     <ProfileContainer onMouseOver={() => console.log('Hovered!')}>
       <ProfilePhotoWrapper>
-        <ProfilePhoto src='/public/RishiPandey.jpg' alt="Your Name" />
+        <ProfilePhoto src='/RishiPandey.jpg' alt="Your Name" />
         <ProfilePhotoOverlay />
       </ProfilePhotoWrapper>
      
