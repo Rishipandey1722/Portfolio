@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'MyBeautifulFont'; /* Replace with your chosen font name */
+    src: url('./fonts/MyBeautifulFont.ttf') format('truetype'); /* Adjust path and format */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+  
