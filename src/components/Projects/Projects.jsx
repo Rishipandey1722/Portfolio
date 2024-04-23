@@ -18,7 +18,7 @@ const projects = [
     techStack: ["SpringBoot" ,"MySQL"],
     githubLink: "https://github.com/Rishipandey1722/User-management.git",
   }, {
-    title: "Employee Mamagement",
+    title: "Employee Management",
     description:
     "Using react and springboot implemented CRUD operation to manage employees",
     techStack: ["React", "SpringBoot", "MySQL"],
@@ -27,7 +27,7 @@ const projects = [
     title: "Student Management",
     description:
     "The Student Management System allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. It provides a user-friendly interface for adding, editing, and deleting students.",
-    techStack: ["React", "Node.js", "Express", "MongoDB"],
+    techStack: ["SpringBoot" ,"MySQL"],
     githubLink: "https://github.com/Rishipandey1722/StudentManagementSpringboot.git",
   },
   {
@@ -42,7 +42,7 @@ const projects = [
     description:
     "Portfolio website using react and with the help of ChatGpt",
     techStack: ["React"],
-    githubLink: "https://github.com/Rishipandey1722/Ecommerce.git",
+    githubLink: "https://github.com/Rishipandey1722/Portfolio.git",
   },
   // ... add more projects here
 ];
