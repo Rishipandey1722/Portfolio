@@ -48,7 +48,7 @@ const LinksContainer = styled.div`
 `;
 const downloadResume = () => {
     // Replace '/path/to/your/resume.pdf' with the actual path to your resume PDF file
-    const resumeUrl = 'https://drive.google.com/file/d/1h4T5nF25Xd1pZNmH27rM7MXCB8fHgpzf/view?usp=sharing';
+    const resumeUrl = 'https://drive.google.com/file/d/1h4T5nF25Xd1pZNmH27rM7MXCB8fHgpzf/view?usp=drive_link';
     window.open(resumeUrl, '_blank');
   };
 
