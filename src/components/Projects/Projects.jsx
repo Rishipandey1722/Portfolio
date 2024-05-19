@@ -4,10 +4,17 @@ import { AiFillGithub } from "react-icons/ai"; // Example icon
 
 const projects = [
   // Replace with your project details
+   {
+    title: "Lung Cancer Prediction using machine learning",
+    description:
+    "Machine learning model to predict lung cancer using random forest and naive bayes",
+    techStack: ["Python", "Flask" , "Mongodb" , "Google collab"],
+    githubLink: "https://github.com/Rishipandey1722/Lung-Cancer-Prediction-using-ML.git",
+  },
   {
     title: "TODO web app",
     description:
-      "Built a fully functional e-commerce website using React and a Node.js backend. Implemented secure payment processing and user authentication.",
+      "Built a traditional todo web app for learning CRUD operations",
     techStack: ["SpringBoot", "MySQL"],
     githubLink: "https://github.com/Rishipandey1722/TodoApp.git",
   },
@@ -30,13 +37,7 @@ const projects = [
     techStack: ["SpringBoot" ,"MySQL"],
     githubLink: "https://github.com/Rishipandey1722/StudentManagementSpringboot.git",
   },
-  {
-    title: "E-commerce Website",
-    description:
-    "E-commerce functionality are implemented , project is in progress",
-    techStack: ["React", "Springboot" , "MySQL"],
-    githubLink: "https://github.com/Rishipandey1722/Ecommerce.git",
-  },
+ 
   {
     title: "Portfolio",
     description:
